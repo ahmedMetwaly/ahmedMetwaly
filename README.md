@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmedMetwaly
 - 👀 I’m senior at faculty of science computer science department Ain Shams university.
 - 🌱 I’m currently learning flutter for developing mobile applications (ios/android). 
-- 📫 How to reach me : 
+- 📫 Contact me on : 
           linkedin : www.linkedin.com/in/ahmed-mohamed-metwaly
           facebook : https://www.facebook.com/profile.php?id=100001569824099
           email : ahmed10metwaly99gmail.com
