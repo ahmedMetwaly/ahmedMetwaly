@@ -2,7 +2,7 @@
 
 # Ahmed Metwaly
 
-### Senior Flutter Engineer
+### Junior Flutter Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=00C8FF&center=true&vCenter=true&random=false&width=800&lines=Flutter+Engineer;Android+%7C+iOS+%7C+Windows;Building+Production+Ready+Applications;Clean+Architecture+Specialist;BLoC+State+Management;Firebase+%7C+MongoDB+%7C+SQLite" />
 
