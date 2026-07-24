@@ -58,8 +58,9 @@ I enjoy transforming complex requirements into fast, maintainable and user-frien
 - BLoC
 
 📱 Google Play
+<br>
 <a href="https://github.com/ahmedMetwaly">
-<img src="assets/google_play.svg" width="100" height="100"/>
+<img src="assets/google_play.svg" width="200" height="200"/>
 </a>
 
 ---
