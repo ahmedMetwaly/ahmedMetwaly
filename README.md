@@ -59,7 +59,7 @@ I enjoy transforming complex requirements into fast, maintainable and user-frien
 
 📱 Google Play
 <br>
-<a href="https://github.com/ahmedMetwaly">
+<a href="https://play.google.com/store/apps/details?id=net.ftlgroup.freightin">
 <img src="assets/google_play.svg" width="200" height="200"/>
 </a>
 
