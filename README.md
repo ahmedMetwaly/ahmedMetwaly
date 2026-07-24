@@ -216,9 +216,9 @@ Garage Management Platform.
 
 # 🏆 Certifications
 
-- Flutter BLoC State Management
-- Dart Programming & OOP
-- First Rank – AI Competition (Osnabrück University)
+- <a href="https://www.udemy.com/certificate/UC-d224a59a-c3ef-4235-84d5-169dca31b65c/"> Flutter BLoC State Management </a>
+- <a href="https://www.udemy.com/certificate/UC-c15c38d2-9451-4b07-8f11-4d3901a1d0dd/"> Dart Programming & OOP </a>
+- <a href="https://drive.google.com/file/d/1oJtFzfvpfGpcAcgKafwzpSjZY8Ij2f6A/view?usp=sharing" >First Rank – AI Competition (Osnabrück University) </a>
 
 ---
 
