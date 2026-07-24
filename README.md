@@ -6,17 +6,19 @@
 
 </div>
 
+
+<br> 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Flutter+Software+Engineer;Android+%7C+iOS+%7C+Windows;Clean+Architecture;BLoC+%26+Cubit;Building+Production+Ready+Applications;Flutter+Desktop+Developer;Firebase+%7C+MongoDB+%7C+SQLite" /> 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Flutter+Software+Engineer;Android+%7C+iOS+%7C+Windows;Clean+Architecture;BLoC+%26+Cubit;Building+Production+Ready+Applications;Flutter+Desktop+Developer;Firebase+%7C+MongoDB+%7C+SQLite" />
-
-<p>
-
+<p> <a href="https://www.linkedin.com/in/ahmed-mohamed-metwaly/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
+<a href="mailto:ahmed10metwaly99@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
 <a href="https://github.com/ahmedMetwaly">
-<img src="https://komarev.com/ghpvc/?username=ahmedMetwaly&style=for-the-badge&color=0891b2"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+  <a href="https://drive.google.com/file/d/13jEjy-939PIjlwOA1YQP22osO3f4Em9F/view?usp=sharing"> <img src="https://img.shields.io/badge/Download_CV-FF5722?style=for-the-badge&logo=googledrive&logoColor=white"/> </a>
+<a href="https://github.com/ahmedMetwaly"> <img src="https://komarev.com/ghpvc/?username=ahmedMetwaly&style=for-the-badge&color=0891b2"/> </a> 
 
-</p>
+</p> 
 
 </div>
 
@@ -139,67 +141,42 @@ Garage Management Platform.
 ---
 
 # 💻 Technical Skills
+<table> <tr> <td valign="top"><b>Languages</b></td> <td>
 
-### Languages
+Dart
 
-- Dart
+</td> </tr> <tr> <td valign="top"><b>Framework</b></td> <td>
 
-### Frameworks
+Flutter
 
-- Flutter
+</td> </tr> <tr> <td valign="top"><b>Platforms</b></td> <td>
 
-### Platforms
+ Android, iOS, Windows
 
-- Android
-- iOS
-- Windows
+</td> </tr> <tr> <td valign="top"><b>Architecture</b></td> <td>
 
-### Architecture
+ Clean Architecture, MVVM, SOLID Principles, Repository Pattern, Dependency Injection
 
-- Clean Architecture
-- MVVM
-- SOLID Principles
-- Repository Pattern
-- Dependency Injection
+</td> </tr> <tr> <td valign="top"><b>State Management</b></td> <td>
+  
+  BLoC, Cubit
 
-### State Management
+</td> </tr> <tr> <td valign="top"><b>Backend & Database</b></td> <td>
 
-- BLoC
-- Cubit
+  Firebase, MongoDB, MySQL, SQLite, Shared Preferences, Secure Storage
 
-### Backend & Database
+</td> </tr> <tr> <td valign="top"><b>Networking</b></td> <td>
 
-- Firebase
-- MongoDB
-- MySQL
-- SQLite
-- Shared Preferences
-- Secure Storage
+  REST APIs, Dio, Retrofit
 
-### Networking
+</td> </tr> <tr> <td valign="top"><b>Services</b></td> <td>
 
-- REST APIs
-- Dio
-- Retrofit
+Firebase Analytics, Crashlytics, Firebase Cloud Messaging, Stripe
 
-### Services
-
-- Firebase Analytics
-- Crashlytics
-- Firebase Cloud Messaging
-- Stripe
-
-### Tools
-
-- Git
-- GitHub
-- CI/CD
-- Jira
-- Android Studio
-- VS Code
-- FVM
-- Postman
-
+</td> </tr> <tr> <td valign="top"><b>Tools</b></td> <td>
+  
+  Git, GitHub, CI/CD, Jira, Android Studio, VS Code, FVM, Postman
+</td> </tr> </table>
 ---
 
 # 🤝 Soft Skills
@@ -234,7 +211,7 @@ Garage Management Platform.
 <a href="https://www.linkedin.com/in/ahmed-mohamed-metwaly/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
+<a href="https://drive.google.com/file/d/13jEjy-939PIjlwOA1YQP22osO3f4Em9F/view?usp=sharing"> <img src="https://img.shields.io/badge/Download_CV-FF5722?style=for-the-badge&logo=googledrive&logoColor=white"/> </a>
 <a href="https://github.com/ahmedMetwaly">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
