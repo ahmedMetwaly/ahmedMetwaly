@@ -128,6 +128,16 @@ Garage Management Platform.
 
 ---
 
+# ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mongodb,mysql,sqlite,git,github,vscode,androidstudio,postman"/>
+
+</p>
+
+---
+
 # 💻 Technical Skills
 
 ### Languages
@@ -212,57 +222,6 @@ Garage Management Platform.
 
 ---
 
-# ⚙️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mongodb,mysql,sqlite,git,github,vscode,androidstudio,postman"/>
-
-</p>
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmedMetwaly&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedMetwaly&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ahmedMetwaly&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedMetwaly&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedMetwaly&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 # 📫 Contact
 
