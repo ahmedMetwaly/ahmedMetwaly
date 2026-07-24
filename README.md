@@ -37,8 +37,7 @@ I enjoy transforming complex requirements into fast, maintainable and user-frien
 
 > Enterprise logistics platform.
 
-<!-- Replace after uploading -->
-<img src="assets/freightin.gif" width="100%" />
+<img alt="FreightIn Logo" width="300" height="300" decoding="async" data-nimg="1" class="w-40 h-auto md:w-40 xl:w-52 object-contain" style="color:transparent" src="assets/freightin.png">
 
 ### Highlights
 
@@ -59,14 +58,13 @@ I enjoy transforming complex requirements into fast, maintainable and user-frien
 - BLoC
 
 📱 Google Play
-
-https://play.google.com/store/apps/details?id=net.ftlgroup.freightin
+<a target="_blank" rel="noreferrer" aria-label="Get it on Google Play" class="mt-4 inline-flex items-center gap-2.5 px-4 py-4 rounded-xl bg-[oklch(0.25_0.03_240)] border border-[oklch(0.32_0.03_240_/_0.6)] text-[oklch(0.88_0.03_240)] transition-all duration-300 ease-[cubic-bezier(0.16,1,0.3,1)] hover:bg-[oklch(0.32_0.04_240)] hover:border-[oklch(0.40_0.06_240)] hover:-translate-y-0.5 w-fit " href="https://play.google.com/store/apps/details?id=net.ftlgroup.freightin"><img alt="Google Play" loading="lazy" width="32" height="32" decoding="async" data-nimg="1" class="shrink-0" style="color:transparent" srcset="/_next/image?url=%2Fgoogle-play.png&amp;w=32&amp;q=75 1x, /_next/image?url=%2Fgoogle-play.png&amp;w=64&amp;q=75 2x" src="/_next/image?url=%2Fgoogle-play.png&amp;w=64&amp;q=75"><div class="flex flex-col leading-tight"><span class="text-xs font-normal text-[oklch(0.75_0.03_240)] uppercase tracking-wide">Get it on</span><span class="text-base font-bold">Google Play</span></div></a>
 
 ---
 
 ## 🏭 El-Ehsan Factory ERP
 
-<img src="assets/elehsan.gif" width="100%" />
+<img src="assets/el-ehsan.png" width="100%" />
 
 ### Highlights
 
@@ -250,4 +248,4 @@ Garage Management Platform.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer" width="100%"/>
