@@ -59,7 +59,7 @@ I enjoy transforming complex requirements into fast, maintainable and user-frien
 
 📱 Google Play
 <a href="https://github.com/ahmedMetwaly">
-<img src="assets/google_play.svg" width="32" height="32"/>
+<img src="assets/google_play.svg" width="100" height="100"/>
 </a>
 
 ---
